@@ -56,7 +56,7 @@
   }
 
   function createTransaction($authToken, $created, $amount, $currency, $merchant) {
-    $createUrl = "https://api.expensify.com?command=CreateTransaction"
+    $createUrl = "https://www.expensify.com/api?command=CreateTransaction"
                     . "&authToken=" . $authToken
                     . "&created=" . $created
                     . "&amount=" . $amount * 100
