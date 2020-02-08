@@ -1,11 +1,12 @@
 $(document).on('ready', function () {
-
+//cameron conroy 0314
   // Instantiate the jQuery datepicker and fill the field with today's date as default
   $('#datepicker').val($.datepicker.formatDate('yy-mm-dd', new Date()));
   $("#datepicker").datepicker({dateFormat:'yy-mm-dd'});;
 
   // Automatically log the user in if the authToken cookie is present
-  if ($.cookie('authToken') !== undefined) {
+  if ($.cookie('authToken') !== undefine
+  ) {
     $('#signInlogOut').text("Log Out");
     $('#spinny').show();
     displayNotification('Logging you in, one moment');
