@@ -30,7 +30,7 @@
     <form id='formLogin'>
       <div class='formItem'>
         <label class="login">Email</label>
-        <input type="text" class="login" name="email" value="expensifychallenge@gmail.com">
+        <input type="text" class="login" name="email" value="expensifytest@mailinator.com">
       </div>
       <div class='formItem'>
         <label class="login">Password</label>
