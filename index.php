@@ -5,11 +5,11 @@
   <title>Expensify - Remote Programming Challenge - Patrick Leahy</title>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
-  <script src="jqueryCookie.js"></script>
-  <script src="main.js"></script>
+  <script src="javascript/jqueryCookie.js"></script>
+  <script src="javascript/main.js"></script>
   <link rel="stylesheet" href="//code.jquery.com/ui/1.10.4/themes/smoothness/jquery-ui.css">
-  <link rel="stylesheet" href="main.css">
-  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" href="css/reset.css">
  </head>
  <body>
   <div id="header">
